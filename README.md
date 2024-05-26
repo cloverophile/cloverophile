@@ -1,6 +1,5 @@
 ## Hi folks 👋, I'm Turana
 ### 💫 Junior Cyber Security Specialist | Aspiring Content Creator 💫
----
 
 <!--
 **aCloverophile/aCloverophile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
