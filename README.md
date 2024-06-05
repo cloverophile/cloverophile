@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - ✍🏻 Cyber security research is a passion for me. Check out my latest articles and blog posts on Medium: https://medium.com/@aCloverophile
 
-- ⚡ Fun fact: TXkgZmF2b3VyaXRlIGZvb3RiYWxsIHRlYW0gaXMgUWFyYWJhZ2gg4p2j77iPIApDbG92ZXJzIGFyZSBldmVyeXdoZXJlIPCfjYA=
+- ⚡ Fun fact: 4pq9IEZvb3RiYWxsIHRlYW06IFFhcmFiYWdoCvCfjrYgU29uZzogTGlua2luIFBhcmsgLSBOdW1iCg==
 
 <p align="center">
   <img width="350" height="500" src="https://github.com/aCloverophile/aCloverophile/assets/122263705/fe9149cb-dab4-4a19-9182-45199d12d1db">
