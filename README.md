@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    - via **Gmail**: turaneresidova1@gmail.com
    - via **Linkedin**: www.linkedin.com/in/turana-rashidova
 
-- ✍🏻 Cyber security research is a passion for me. Check out my latest articles and blog posts on Medium: https://medium.com/@aCloverophile
+- ✍🏻 Cyber security research is a passion for me. Check out my latest articles and blog posts on Medium: https://medium.com/@cloverophile
 
 - ⚡ Fun fact: 4pq9IEZvb3RiYWxsIHRlYW06IFFhcmFiYWdoCvCfjrYgU29uZzogTGlua2luIFBhcmsgLSBOdW1iCg==
 
