@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    - via **Gmail**: turaneresidova1@gmail.com
    - via **Linkedin**: www.linkedin.com/in/turana-rashidova
 
-- ✍🏻 Researching, writing blogs and articles, deep diving into this fascinating world... I'm immersing myself completely in this world!
+- ✍🏻 Researching, writing blogs and articles, deep diving into cyber security... I'm immersing myself completely in this world!
      - Check out my latest articles and blog posts on Medium: https://medium.com/@cloverophile
      - Actively playing on CyberDefenders: https://cyberdefenders.org/p/ccloverophilee#/overview
 
