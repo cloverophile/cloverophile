@@ -1,5 +1,5 @@
 ## Hi folks 👋, I'm Turana
-### 💫 Junior Cyber Security Specialist | Aspiring Content Creator 💫
+### 💫 Cyber Security Specialist | Aspiring Content Creator 💫
 
 <!--
 **aCloverophile/aCloverophile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm a passionate **cyber security specialist** continuously learning and staying updated with the latest security trends and technologies.
+- 🔭 I'm a passionate **cyber security specialist** and **content creator**; continuously learning and staying updated with the latest security trends and technologies.
 
 - 📫 I am always eager to collaborate, share knowledge, and connect with fellow professionals and enthusiasts. Reach me...
    - via **Gmail**: turaneresidova1@gmail.com
    - via **Linkedin**: www.linkedin.com/in/turana-rashidova
 
-- ✍🏻 Cyber security research is a passion for me. Check out my latest articles and blog posts on Medium: https://medium.com/@cloverophile
+- ✍🏻 Researching, writing blogs and articles, deep diving into this fascinating world... I'm immersing myself completely in this world!
+     - Check out my latest articles and blog posts on Medium: https://medium.com/@cloverophile
+     - Actively playing on CyberDefenders: https://cyberdefenders.org/p/ccloverophilee#/overview
 
 - ⚡ Fun fact: 4pq9IEZvb3RiYWxsIHRlYW06IFFhcmFiYWdoCvCfjrYgU29uZzogTGlua2luIFBhcmsgLSBOdW1iCg==
 
