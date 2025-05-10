@@ -1,6 +1,9 @@
 ## Hi folks 👋, I'm Turana
 ### 💫 Cyber Security Specialist | Content Engineer 💫
 
+🐎 UWFyYWJhZ2ggRks= 🐎 
+💙❤️ VmlzY2EgQmFyY2E= ❤️💙
+
 <!--
 **aCloverophile/aCloverophile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,8 +27,6 @@ Here are some ideas to get you started:
 - ✍🏻 Researching, writing blogs and articles, deep diving into cyber security... I'm immersing myself completely in this world!
      - Check out my latest articles and blog posts on Medium: https://medium.com/@cloverophile
      - Actively playing on CyberDefenders: https://cyberdefenders.org/p/ccloverophilee#/overview
-
-- ⚡ Fun fact: 4pq9IEZvb3RiYWxsIHRlYW06IFFhcmFiYWdoCvCfjrYgU29uZzogTGlua2luIFBhcmsgLSBOdW1iCg==
 
 <p align="center">
   <img width="350" height="500" src="https://github.com/aCloverophile/aCloverophile/assets/122263705/fe9149cb-dab4-4a19-9182-45199d12d1db">
